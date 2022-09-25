@@ -72,13 +72,15 @@ hello srq
 hello srq
 hello srq
 hello srq
+hello srq 222222
 hello srq
-hello srq
-hello srq
-hello srq
-hello srq
-~
-~
-~
-~
-~hello.txt
+hello srqddddddd
+hellddddddddddDDDDDD
+
+
+
+
+
+
+:wq
+:
